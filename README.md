@@ -16,3 +16,6 @@ https://arxiv.org/pdf/1512.03385.pdf
 
 5. **GOING DEEPER WITH CONVOLUTIONS** *(GoogLeNet)* - Christian Szegedy, Wei Liu, Yangqing Jia, Pierre Sermanet, Scott Reed, Dragomir Anguelov, Dumitru Erhan, Vincent Vanhoucke, Andrew Rabinovich <br>
 https://arxiv.org/pdf/1409.4842.pdf
+
+6. **RETHINKING THE INCEPTION ARCHITECTURE FOR COMPUTER VISION** *(InceptionV3)* - Christian Szegedy, Vincent Vanhoucke, Sergey Ioffe, Jonathon Shlens, Zbigniew Wojna <br>
+https://arxiv.org/pdf/1512.00567.pdf

@@ -19,3 +19,6 @@ https://arxiv.org/pdf/1409.4842.pdf
 
 6. **RETHINKING THE INCEPTION ARCHITECTURE FOR COMPUTER VISION** *(InceptionV3)* - Christian Szegedy, Vincent Vanhoucke, Sergey Ioffe, Jonathon Shlens, Zbigniew Wojna <br>
 https://arxiv.org/pdf/1512.00567.pdf
+
+7. **XCEPTION: DEEP LEARNING WITH DEPTHWISE SEPARABLE CONVOLUTIONS** *(Xception)* - Francois Chollet <br>
+https://arxiv.org/pdf/1610.02357.pdf

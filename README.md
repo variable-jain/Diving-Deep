@@ -22,3 +22,6 @@ https://arxiv.org/pdf/1512.00567.pdf
 
 7. **XCEPTION: DEEP LEARNING WITH DEPTHWISE SEPARABLE CONVOLUTIONS** *(Xception)* - Francois Chollet <br>
 https://arxiv.org/pdf/1610.02357.pdf
+
+8. **MOBILENETS: EFFICIENT CONVOLUTIONAL NEURAL NETWORKS FOR MOBILE VISION APPLICATIONS** *(MobileNets)* - Andrew G. Howard, Menglong Zhu, Bo Chen, Dmitry Kalenichenko, Weijun Wang, Tobias Weyand,  Marco Andreetto, Hartwig Adam <br>
+https://arxiv.org/pdf/1704.04861.pdf
